@@ -1,5 +1,6 @@
 # -Vedoora-an-Ecommerce-website
-ghhfg
+ Vedora” an ecommerce website based on Wordpress:  This is a fashion ecommerce website build using wordpress and woocommerce plugin. XAMPP server is used for database management.
+Tech Stack : Wordpress , Woocommerce , Elementor, Apache XAMPP;
 
 # Screenshots
 
